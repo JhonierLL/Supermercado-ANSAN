@@ -1,0 +1,2 @@
+El diseño de interfaces web es un elemento clave en el desarrollo de aplicaciones web modernas, ya que influye directamente en la experiencia del usuario. Una interfaz clara y bien organizada facilita la navegación y mejora la percepción del sitio.
+En este trabajo se ha desarrollado una página web de un supermercado online denominado Supermercado ANSAN. El objetivo principal es ofrecer una experiencia de compra sencilla, intuitiva y visualmente atractiva, aplicando los conocimientos adquiridos en el módulo de Diseño de Interfaces Web.
