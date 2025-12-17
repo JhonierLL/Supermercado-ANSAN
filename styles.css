@@ -1,0 +1,105 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #cfb479; 
+    
+}
+
+
+.Logo {
+    height: 150px; 
+    cursor: pointer;
+}
+
+
+nav {
+      
+    align-items: center;
+    justify-content:center;
+    padding: 05px 20px;
+    text-align: right;
+    margin: 20px auto
+    
+}
+
+nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+
+nav a:hover {
+    color: #ffd54f; 
+}
+
+fieldset{
+
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+body{
+    
+
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: bisque;
+    
+}
+
+footer{
+
+    position: static;
+    bottom: 0;   
+    width: 100%;
+    text-align: center;
+    padding: 10px ;
+    background-color: #cfb479;
+
+}
+
+.destacados{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    background-color: #4caf50;
+}
+
+.articulos{
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: center;
+}
+
+.producto {
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+  background-color: white
+}
+
+.producto:hover {
+  transform: scale(1.05);
+}
+
+.producto p {
+  font-weight: bold;
+  color: #4caf50;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: #000;
+}
+
+
